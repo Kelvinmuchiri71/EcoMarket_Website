@@ -1,6 +1,7 @@
 # EcoMarket - E-commerce Website
 
-EcoMarket Screenshot <!--![alt text](image.png) ![alt text](image-1.png)-->
+EcoMarket Screenshot <!--![alt text](image.png)--> 
+                    <!--![alt text](image-1.png)-->
 
 EcoMarket is a modern, single-page e-commerce website built using Vite, React, Tailwind CSS, and JSON Server. It allows users to browse products, add them to a cart, and view product details. The cart data persists even after page reloads using localStorage.
 
