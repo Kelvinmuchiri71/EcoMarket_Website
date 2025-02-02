@@ -19,24 +19,24 @@
     margin: 0 auto;
   }
   
-  .about .team {
+  .about .product {
     margin-top: 40px;
   }
   
-  .about .team h3 {
+  .about .product h3 {
     font-size: 28px;
     margin-bottom: 20px;
     color: #333;
   }
   
-  .about .team-members {
+  .about .products {
     display: flex;
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
   }
   
-  .about .team-member {
+  .about .products {
     background-color: white;
     border: 1px solid #ddd;
     border-radius: 10px;
@@ -46,19 +46,19 @@
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
   
-  .about .team-member:hover {
+  .about .products:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
   }
   
-  .about .team-member img {
+  .about .products img {
     width: px;
     height: px;
     
     margin-bottom: 15px;
   }
   
-  .about .team-member h4 {
+  .about .products h4 {
     font-size: 20px;
     margin-bottom: 10px;
     color: #333;
