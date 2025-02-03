@@ -11,10 +11,10 @@ export default function About() {
         Thank you for choosing EcoMarket. Together, we can create a better future for generations to come.
       </p>
 
-      <div className="product">
+      <div className="products">
         <h3>Our Products</h3>
-<div className="products">
-          <div className="products">
+<div className="product-list">
+          <div className="product">
             <img
               src="https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" height={160} 
              
@@ -22,7 +22,7 @@ export default function About() {
             <h4>Men's Clothing</h4>
             
           </div>
-          <div className="products">
+          <div className="product">
             <img
               src="https://images.pexels.com/photos/7679720/pexels-photo-7679720.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" height={160}
               
@@ -30,14 +30,14 @@ export default function About() {
             <h4>Women's Clothing</h4>
             
             </div>
-            <div className="products">
+            <div className="product">
               <img
                 src="https://images.pexels.com/photos/1927259/pexels-photo-1927259.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" height={160}
               />
               <h4>Jewelery</h4>
               
             </div>
-            <div className="products">
+            <div className="product">
               <img
                 src="https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=600" alt="" height={160}
               />
