@@ -1,3 +1,4 @@
+
 import { useState, useEffect } from "react"; // Add useEffect
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
@@ -68,3 +69,4 @@ export default function App() {
     </Router>
   );
 }
+

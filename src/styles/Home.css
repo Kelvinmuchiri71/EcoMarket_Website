@@ -1,0 +1,133 @@
+.home-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+    color: black;
+    background-color: white;
+  }
+  
+  .home-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+  
+  .product-card {
+
+    display: block;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px -1px rgba(0, 0, 0, 0.2);
+  }
+  
+  .product-image {
+
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .product-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: black;
+  }
+  
+  .product-price {
+    color: #6b7280;
+  }
+  
+  .add-to-cart-button {
+    background-color: red;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    width: 100%;
+    /* margin-top: 0.5rem; */
+    margin: 0 auto;
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #1a1a1a;
+  }
+  
+  .hero-section {
+    position: relative;
+    text-align: left;
+    color: white;
+    padding: 0 10px;
+    margin-top: 0;
+  }
+  
+  .hero-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .hero-title {
+    position: absolute;
+    top: 35%;
+    left: 10%;
+    transform: translateY(-50%);
+    font-size: 3rem;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    animation: fadeIn 2s ease-in-out, slideIn 2s ease-in-out;
+  }
+  
+  .hero-subtitle {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Verdana', sans-serif;
+    margin-top: 20px;
+    animation: fadeIn 2.5s ease-in-out, slideIn 2.5s ease-in-out;
+  }
+  
+  .hero-button {
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    transform: translateY(-50%);
+    font-size: 1rem;
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-family: 'Verdana', sans-serif;
+    margin-top: 20px;
+    animation: fadeIn 3s ease-in-out, slideIn 3s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @keyframes slideIn {
+    0% { transform: translateY(-50%) translateX(-100%); }
+    100% { transform: translateY(-50%) translateX(0); }
+  }
