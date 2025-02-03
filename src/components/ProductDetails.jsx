@@ -7,10 +7,10 @@ export default function ProductDetails({ addToCart }) {
   const [product, setProduct] = useState(null);
 
   useEffect(() => {
-    fetch(`http://localhost:3000/products/${id}`)
+    fetch(`https://ecomarket-api.onrender.com/products/${id}`)
       .then((res) => res.json())
       .then((data) => setProduct(data));
-}, [id]);
+  }, [id]);
 
   if (!product) {
     return <div>Loading...</div>; // Show a loading state while fetching data
