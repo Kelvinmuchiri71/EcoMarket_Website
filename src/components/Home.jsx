@@ -13,7 +13,7 @@ export default function Home({ addToCart }) {
   return (
     <div className="home-container">
       <section className="hero-section">
-        <img src="/main.png (1).jpg" alt="Hero" className="hero-image" />
+        <img src="/main.png.jpg" alt="Hero" className="hero-image" />
         <h1 className="hero-title">Welcome to EcoMarket</h1>
         <p className="hero-subtitle">Discover our latest products and offers</p>
         <button className="hero-button">Shop Now</button>

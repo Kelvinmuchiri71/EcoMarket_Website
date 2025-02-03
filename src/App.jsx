@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react"; // Add useEffect
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
@@ -8,6 +7,7 @@ import AddProduct from "./components/AddProduct";
 import Products from "./components/Products";
 import ProductDetails from "./components/ProductDetails";
 import Cart from "./components/Cart";
+
 
 export default function App() {
   // Load cart data from localStorage on initial render
