@@ -6,7 +6,7 @@
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
         "rating": {
           "rate": 3.9,
           "count": 120
@@ -18,7 +18,7 @@
         "price": 22.3,
         "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
         "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
         "rating": {
           "rate": 4.1,
           "count": 259
@@ -30,7 +30,7 @@
         "price": 55.99,
         "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling.",
         "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+          "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500",
         "rating": {
           "rate": 4.7,
           "count": 500
@@ -42,7 +42,7 @@
         "price": 15.99,
         "description": "Lightweight & soft fabric with a modern design to make you feel comfortable in everyday wear.",
         "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+          "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=500",
         "rating": {
           "rate": 2.1,
           "count": 430
@@ -52,9 +52,9 @@
         "id": "5",
         "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
         "price": 695,
-        "description": "Inspired by the mythical water dragon that protects the ocean’s pearl, this 18-karat gold and sterling silver bracelet is punctuated with diamonds.",
+        "description": "Inspired by the mythical water dragon that protects the ocean's pearl, this 18-karat gold and sterling silver bracelet is punctuated with diamonds.",
         "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500",
         "rating": {
           "rate": 4.6,
           "count": 400
@@ -66,7 +66,7 @@
         "price": 168,
         "description": "Satisfaction Guaranteed. Return or Exchange Any Order within 30 Days.",
         "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=500",
         "rating": {
           "rate": 3.9,
           "count": 70
@@ -78,7 +78,7 @@
         "price": 9.99,
         "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her.",
         "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500",
         "rating": {
           "rate": 3,
           "count": 400
@@ -90,7 +90,7 @@
         "price": 10.99,
         "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
         "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500",
         "rating": {
           "rate": 1.9,
           "count": 100
@@ -102,7 +102,7 @@
         "price": 64,
         "description": "USB 3.0 and USB 2.0 Compatibility. Fast data transfers.",
         "category": "electronics",
-        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "image": "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?w=500",
         "rating": {
           "rate": 3.3,
           "count": 203
@@ -114,7 +114,7 @@
         "price": 109,
         "description": "Easy upgrade for faster boot up, shutdown, application load and response.",
         "category": "electronics",
-        "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=500",
         "rating": {
           "rate": 2.9,
           "count": 470
@@ -126,7 +126,7 @@
         "price": 109,
         "description": "Remarkable transfer speeds to improve overall system responsiveness and performance.",
         "category": "electronics",
-        "image": "https://fakestoreapi.com/img/71kWymZ+PFL._AC_SX679_.jpg",
+        "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=500",
         "rating": {
           "rate": 4.8,
           "count": 319
@@ -138,7 +138,7 @@
         "price": 114,
         "description": "Expand your PS4 gaming experience, Play anywhere.",
         "category": "electronics",
-        "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "image": "https://images.unsplash.com/photo-1622297845775-5ff3fef71d13?w=500",
         "rating": {
           "rate": 4.8,
           "count": 400
@@ -150,7 +150,7 @@
         "price": 599,
         "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display.",
         "category": "electronics",
-        "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500",
         "rating": {
           "rate": 2.9,
           "count": 250
@@ -162,7 +162,7 @@
         "price": 999.99,
         "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR.",
         "category": "electronics",
-        "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "image": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?w=500",
         "rating": {
           "rate": 2.2,
           "count": 140
@@ -174,7 +174,7 @@
         "price": 56.99,
         "description": "Note:The Jackets is perfect for lots of outdoor activities.",
         "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500",
         "rating": {
           "rate": 2.6,
           "count": 235
@@ -186,7 +186,7 @@
         "price": 29.95,
         "description": "Removable Hooded Faux Leather Moto Biker Jacket for Women.",
         "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500",
         "rating": {
           "rate": 2.9,
           "count": 340
@@ -198,7 +198,7 @@
         "price": 39.99,
         "description": "Lightweight perfect for trip or casual wear—Long sleeve with hooded, adjustable drawstring waist design.",
         "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500",
         "rating": {
           "rate": 3.8,
           "count": 679
@@ -210,7 +210,7 @@
         "price": 9.85,
         "description": "95% RAYON 5% SPANDEX.",
         "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500",
         "rating": {
           "rate": 4.7,
           "count": 130
@@ -222,7 +222,7 @@
         "price": 7.95,
         "description": "100% Polyester, Machine wash.",
         "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "image": "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=500",
         "rating": {
           "rate": 4.5,
           "count": 146
@@ -234,7 +234,7 @@
         "price": 12.99,
         "description": "95%Cotton,5%Spandex.",
         "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
         "rating": {
           "rate": 3.6,
           "count": 145
@@ -246,7 +246,7 @@
         "price": 35,
         "description": "Quality Leather ",
         "category": "men's shoes",
-        "image": "https://kg-s3-assets.s3.amazonaws.com/subfolder/f6a1d5d4-d024-4a7e-bc89-d57bfcfde6e6.jpeg",
+        "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
         "rating": {
           "rate": 4.8,
           "count": 100
@@ -257,8 +257,54 @@
         "title": "New Balance 574-V2",
         "price": 40,
         "description": "Sneaker",
-        "category": "men's shoes\"",
-        "image": "https://imgs.search.brave.com/qaS61c1gQqWZQSyEHFAkKf3Rf5aD7v4TRJ8HsiW9Go4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTE3ZGNkVkJBc0wu/anBn"
+          "category": "men's shoes",
+          "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500"
+      }
+      ,
+      {
+        "id": "21",
+        "title": "EcoBrew Ceramic Coffee Mug",
+        "price": 14.99,
+        "description": "12oz ceramic mug, dishwasher safe, minimalist design.",
+        "category": "home",
+        "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=500",
+        "rating": { "rate": 4.3, "count": 58 }
+      },
+      {
+        "id": "22",
+        "title": "AeroComfort Wireless Headphones",
+        "price": 79.99,
+        "description": "Bluetooth noise-cancelling over-ear headphones with 30h battery life.",
+        "category": "electronics",
+        "image": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=500&auto=format&fit=crop&q=80",
+        "rating": { "rate": 4.5, "count": 210 }
+      },
+      {
+        "id": "23",
+        "title": "PowerFlex Yoga Mat",
+        "price": 29.5,
+        "description": "Non-slip eco-friendly yoga mat with extra cushioning.",
+        "category": "sports",
+        "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500",
+        "rating": { "rate": 4.2, "count": 89 }
+      },
+      {
+        "id": "24",
+        "title": "Horizon Smartwatch S2",
+        "price": 199.0,
+        "description": "Fitness-tracking smartwatch with heart-rate monitor and GPS.",
+        "category": "electronics",
+        "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=500",
+        "rating": { "rate": 4.6, "count": 142 }
+      },
+      {
+        "id": "25",
+        "title": "Genuine Leather Bifold Wallet",
+        "price": 34.0,
+        "description": "Slim bifold wallet with RFID blocking and 6 card slots.",
+        "category": "accessories",
+        "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=500",
+        "rating": { "rate": 4.1, "count": 64 }
       }
     ]
   }

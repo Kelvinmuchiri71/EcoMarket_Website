@@ -7,14 +7,18 @@ export default function Products({ addToCart }) {
   const [products, setProducts] = useState([]);
   const [filteredProducts, setFilteredProducts] = useState([]);
   const [activeFilter, setActiveFilter] = useState("All");
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("https://ecomarket-api.onrender.com/products")
+    setLoading(true);
+    fetch("http://localhost:3000/products")
       .then((res) => res.json())
       .then((data) => {
         setProducts(data);
         setFilteredProducts(data);
-      });
+      })
+      .catch((err) => console.error(err))
+      .finally(() => setLoading(false));
   }, []);
 
   const handleFilter = (category) => {
@@ -62,9 +66,17 @@ export default function Products({ addToCart }) {
         </button>
       </div>
       <div className="product-grid">
-        {filteredProducts.map((product) => (
-          <ProductCard key={product.id} product={product} addToCart={addToCart} />
-        ))}
+        {loading
+          ? Array.from({ length: 8 }).map((_, i) => (
+              <div className="skeleton-card" key={i}>
+                <div className="skeleton skeleton-image" />
+                <div className="skeleton skeleton-title" />
+                <div className="skeleton skeleton-price" />
+              </div>
+            ))
+          : filteredProducts.map((product) => (
+              <ProductCard key={product.id} product={product} addToCart={addToCart} />
+            ))}
       </div>
     </div>
   );

@@ -13,7 +13,7 @@ export default function AddProduct() {
     e.preventDefault();
     const newProduct = { title, price: parseFloat(price), description, image };
 
-    fetch("https://ecomarket-api.onrender.com/products", {
+    fetch("http://localhost:3000/products", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(newProduct),

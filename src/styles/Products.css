@@ -38,3 +38,12 @@
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 1rem;
   }
+
+  /* Skeleton loader styles */
+  .skeleton{ border-radius:8px; background: linear-gradient(90deg,#f3f4f6 25%, #ececec 37%, #f3f4f6 63%); background-size:400% 100%; animation: shimmer 1.2s linear infinite; }
+  .skeleton-image{ height:180px; width:100%; margin-bottom:10px; }
+  .skeleton-title{ height:16px; width:70%; margin:8px 0; }
+  .skeleton-price{ height:14px; width:40%; }
+  .skeleton-card{ background:transparent; padding:12px; border-radius:12px; }
+
+  @keyframes shimmer{ 0%{background-position:-400px 0} 100%{background-position:400px 0} }

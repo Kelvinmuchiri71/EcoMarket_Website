@@ -22,6 +22,7 @@ export default function Cart({ cart, updateQuantity }) {
                     <button
                       onClick={() => updateQuantity(item.id, item.quantity - 1)}
                       className="quantity-button"
+                      aria-label={`Decrease quantity of ${item.title}`}
                     >
                       -
                     </button>
@@ -29,6 +30,7 @@ export default function Cart({ cart, updateQuantity }) {
                     <button
                       onClick={() => updateQuantity(item.id, item.quantity + 1)}
                       className="quantity-button"
+                      aria-label={`Increase quantity of ${item.title}`}
                     >
                       +
                     </button>
@@ -37,12 +39,18 @@ export default function Cart({ cart, updateQuantity }) {
               </div>
             ))}
           </div>
-          <div className="cart-total">
-            <p>Total: ${total.toFixed(2)}</p>
+          <div className="cart-summary">
+            <div className="cart-total">
+              <p>Total: <span className="total-amount">${total.toFixed(2)}</span></p>
+            </div>
+            <div className="cart-actions">
+              <button className="checkout-button">Proceed to Checkout</button>
+              <Link to="/" className="continue-shopping">Continue Shopping</Link>
+            </div>
           </div>
         </>
       )}
-      <Link to="/" className="continue-shopping">Continue Shopping</Link>
+     
     </div>
   );
 }
